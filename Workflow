@@ -1,0 +1,3 @@
+ Data Loading
+Insight Generation
+Exploratory Data Analysis (EDA)
